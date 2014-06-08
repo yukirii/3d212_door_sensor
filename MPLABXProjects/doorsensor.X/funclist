@@ -1,0 +1,9 @@
+_init: CODE, 387 0 63
+_main: CODE, 27 0 199
+_intr: CODE, 315 0 72
+_alart: CODE, 226 0 89
+__initialization: CODE, 16 0 9
+_clear_cnt: CODE, 492 0 34
+_beep1: CODE, 526 0 14
+_beep2: CODE, 450 0 42
+Total: 522
